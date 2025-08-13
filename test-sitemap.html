@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Sitemap</title>
+</head>
+<body>
+    <h1>Test Sitemap</h1>
+    <p>Click the link below to test sitemap:</p>
+    <a href="http://localhost:3000/sitemap.xml" target="_blank">Open Sitemap.xml</a>
+    <br><br>
+    <a href="http://localhost:3000/robots.txt" target="_blank">Open Robots.txt</a>
+    
+    <script>
+        // Test sitemap via JavaScript
+        fetch('http://localhost:3000/sitemap.xml')
+            .then(response => response.text())
+            .then(data => {
+                console.log('Sitemap content:', data);
+                document.getElementById('sitemap-content').innerHTML = '<pre>' + data + '</pre>';
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('sitemap-content').innerHTML = 'Error loading sitemap: ' + error;
+            });
+    </script>
+    
+    <h2>Sitemap Content:</h2>
+    <div id="sitemap-content">Loading...</div>
+</body>
+</html>

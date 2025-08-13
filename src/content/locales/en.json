@@ -1,0 +1,565 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "close": "Close",
+    "menu": "Menu",
+    "language": "Language",
+    "english": "English",
+    "arabic": "العربية",
+    "skipToContent": "Skip to main content"
+  },
+  "navigation": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "downloads": "Downloads",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "refundPolicy": "Refund Policy",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "hero": {
+    "headline": "DOOM VIP IPTV | DH PLUS VIP | 15000+ Channels | Best IPTV 2025",
+    "subheadline": "Premium IPTV streaming with Doom VIP and DH PLUS VIP. Anti-freeze technology, 99.9-100% uptime, and support for all devices.",
+    "cta": {
+      "subscribe": "Subscribe Now",
+      "whatsapp": "Order on WhatsApp"
+    },
+    "features": [
+      "15,000+ Live Channels",
+      "75,000+ Movies & Shows",
+      "4K/UHD Quality",
+      "Anti-Freeze Technology",
+      "24/7 Support"
+    ],
+    "stats": {
+      "channels": "Live Channels",
+      "movies": "Movies & Shows",
+      "uptime": "Uptime",
+      "support": "Support"
+    },
+    "statsTitle": "Our Amazing Statistics",
+    "statsSubtitle": "Numbers that speak for our quality and reliability",
+    "statsLoaded": "Statistics loaded successfully!",
+    "whyChooseUs": "Why Choose Our Service?",
+    "antiFreeze": "Anti-Freeze Technology",
+    "antiFreezeDesc": "No buffering with stable internet",
+    "worldwide": "Worldwide Coverage",
+    "worldwideDesc": "Global content and coverage",
+    "allDevices": "All Devices Supported",
+    "allDevicesDesc": "Works on every device"
+  },
+  "services": {
+    "title": "Premium IPTV Services",
+    "subtitle": "Choose from our two flagship IPTV services",
+    "doomVip": {
+      "name": "Doom VIP IPTV",
+      "features": [
+        "11,000+ Live TV Channels",
+        "65,000+ Movies",
+        "11,500 TV Shows (VOD)",
+        "99.9% Uptime",
+        "UHD/FHD/HD/SD Quality",
+        "Anti-Freeze Technology",
+        "EU/US Servers",
+        "All Devices Supported"
+      ]
+    },
+    "dhPlusVip": {
+      "name": "DH PLUS VIP IPTV",
+      "features": [
+        "15,000+ Channels",
+        "70,000+ VOD+",
+        "100% Uptime",
+        "No Refunds After Payment",
+        "Ready within 5–7 mins",
+        "Premium Quality",
+        "24/7 Support",
+        "Regular Updates"
+      ]
+    }
+  },
+  "features": {
+    "title": "Why Choose Our IPTV Service?",
+    "subtitle": "Experience premium streaming with Doom VIP and DH PLUS VIP",
+    "items": [
+      {
+        "title": "Massive Content Library",
+        "description": "Access over 15,000 live channels and 75,000+ movies and TV shows from around the world"
+      },
+      {
+        "title": "Anti-Freeze Technology",
+        "description": "Enjoy uninterrupted streaming with our advanced anti-freeze technology and stable servers"
+      },
+      {
+        "title": "4K Ultra HD Quality",
+        "description": "Watch your favorite content in stunning UHD, FHD, HD, and SD quality"
+      },
+      {
+        "title": "Universal Device Support",
+        "description": "Works on Smart TVs, Android, iOS, MAG boxes, Enigma, PCs, and more"
+      },
+      {
+        "title": "99.9% Uptime Guarantee",
+        "description": "Reliable streaming with EU/US servers and 24/7 technical support"
+      },
+      {
+        "title": "Global Content Library",
+        "description": "Access channels and content from around the world in multiple languages"
+      },
+      {
+        "title": "Universal Device Support",
+        "description": "Compatible with Smart TVs, Android, iOS, MAG boxes, Kodi, VLC, and more"
+      },
+      {
+        "title": "99.9-100% Uptime",
+        "description": "Reliable service with exceptional uptime and EU/US server infrastructure"
+      },
+      {
+        "title": "24/7 Customer Support",
+        "description": "Round-the-clock support to help you with any questions or technical issues"
+      }
+    ],
+    "devices": {
+      "title": "Compatible with All Devices",
+      "list": [
+        "Smart TVs (Samsung/LG)",
+        "MAG Boxes",
+        "Android TV/Box",
+        "iOS/Android",
+        "Enigma",
+        "PCs",
+        "Kodi/VLC",
+        "Fire TV Stick",
+        "Apple TV"
+      ]
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Flexible pricing options for DH PLUS VIP IPTV service",
+    "currency": "Currency:",
+    "perMonth": "/month",
+    "badges": {
+      "mostPopular": "Most Popular",
+      "specialOffer": "Special Offer",
+      "bestValue": "Best Value"
+    },
+    "labels": {
+      "save": "Save",
+      "bonus": "Bonus",
+      "free": "FREE"
+    },
+    "plans": [
+      {
+        "name": "6 Months",
+        "price": 9,
+        "duration": "6 months",
+        "popular": false,
+        "features": [
+          "15,000+ Live Channels",
+          "70,000+ Movies & Shows",
+          "Anti-Freeze Technology",
+          "99.9% Uptime Guarantee",
+          "24/7 Customer Support",
+          "No Refunds After Payment",
+          "Ready within 5-7 minutes",
+          "No Adult Content (18+)"
+        ]
+      },
+      {
+        "name": "12 Months",
+        "price": 15,
+        "duration": "12 months",
+        "popular": false,
+        "features": [
+          "15,000+ Live Channels",
+          "70,000+ Movies & Shows",
+          "Anti-Freeze Technology",
+          "100% Uptime Guarantee",
+          "24/7 Customer Support",
+          "No Refunds After Payment",
+          "Ready within 5-7 minutes",
+          "No Adult Content (18+)"
+        ]
+      },
+      {
+        "name": "12 Months + 3 FREE",
+        "price": 13,
+        "duration": "12 months",
+        "bonus": "3 months free",
+        "originalPrice": 20,
+        "savings": 7,
+        "popular": true,
+        "specialOffer": true,
+        "features": [
+          "15,000+ Live Channels",
+          "70,000+ Movies & Shows",
+          "Anti-Freeze Technology",
+          "100% Uptime Guarantee",
+          "24/7 Customer Support",
+          "No Refunds After Payment",
+          "Ready within 5-7 minutes",
+          "3 Months Extra Free",
+          "No Adult Content (18+)"
+        ]
+      },
+      {
+        "name": "24 Months",
+        "price": 25,
+        "duration": "24 months",
+        "popular": false,
+        "features": [
+          "15,000+ Live Channels",
+          "70,000+ Movies & Shows",
+          "Anti-Freeze Technology",
+          "100% Uptime Guarantee",
+          "24/7 Customer Support",
+          "No Refunds After Payment",
+          "Ready within 5-7 minutes",
+          "No Adult Content (18+)"
+        ]
+      }
+    ],
+    "cta": "Order via WhatsApp",
+    "guarantee": "No refunds or exchanges after payment",
+    "notice": {
+      "title": "Important Notice",
+      "content": "All subscriptions do not include Adult Content (18+ channels). Our service is family-friendly and suitable for all ages.",
+      "icon": "⚠️"
+    },
+    "whatsappMessage": "Hi! I'm interested in the {plan} IPTV plan for ${price}. Can you help me get started?",
+    "included": {
+      "title": "What's Included in All Plans",
+      "features": [
+        "15,000+ Live Channels",
+        "70,000+ Movies & Shows",
+        "Anti-Freeze Technology",
+        "99.9-100% Uptime",
+        "24/7 Customer Support",
+        "No Refunds After Payment",
+        "Ready within 5-7 minutes",
+        "All Device Support",
+        "UHD/FHD/HD/SD Quality",
+        "EU/US Servers"
+      ]
+    },
+    "pricingFaq": {
+      "title": "Pricing FAQ",
+      "subtitle": "Common questions about our pricing plans",
+      "items": [
+        {
+          "question": "Can I change my plan later?",
+          "answer": "Yes, you can upgrade your plan at any time. Contact us via WhatsApp for assistance with plan changes."
+        },
+        {
+          "question": "Is there a setup fee?",
+          "answer": "No, there are no setup fees or hidden charges. The price you see is exactly what you pay."
+        },
+        {
+          "question": "How do I pay?",
+          "answer": "We accept various payment methods including credit cards, PayPal, and cryptocurrency. Contact us via WhatsApp to discuss payment options."
+        },
+        {
+          "question": "What if I'm not satisfied?",
+          "answer": "All sales are final. No refunds or exchanges are provided after payment. Please contact us before purchasing if you have any questions about our service."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our IPTV service",
+    "items": [
+      {
+        "question": "Why is my stream buffering?",
+        "answer": "Buffering can occur due to slow internet connection, network congestion, or device limitations. Ensure you have a stable internet connection of at least 10 Mbps for HD streaming and 25 Mbps for 4K content."
+      },
+      {
+        "question": "How many devices can I use simultaneously?",
+        "answer": "Our IPTV service supports multiple simultaneous connections. The exact number depends on your subscription plan. Contact us via WhatsApp for specific details about your plan."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept various payment methods including credit cards, PayPal, and cryptocurrency. Contact us via WhatsApp to discuss payment options for your region."
+      },
+      {
+        "question": "Which devices are supported?",
+        "answer": "Our service works on Smart TVs (Samsung/LG), MAG boxes, Android TV/Box, iOS/Android devices, Enigma receivers, PCs, Kodi, VLC, Fire TV Stick, Apple TV, and more."
+      },
+      {
+        "question": "Do you offer a free trial?",
+        "answer": "We do not offer free trials or refunds. All sales are final to maintain our competitive pricing and instant service activation. Contact us for any questions before purchasing."
+      },
+      {
+        "question": "How quickly will my service be ready?",
+        "answer": "Your IPTV service will be ready within 5-7 minutes after payment confirmation. You'll receive all necessary setup information via WhatsApp."
+      }
+    ],
+    "contact": {
+      "title": "Still have questions?",
+      "description": "Can't find the answer you're looking for? Contact our support team via WhatsApp for instant help.",
+      "cta": "Contact Support"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Contact us for support or to place an order",
+    "whatsapp": {
+      "title": "WhatsApp Support",
+      "description": "Get instant support and place orders via WhatsApp",
+      "number": "+1 (332) 266-2387",
+      "cta": "Message on WhatsApp"
+    },
+    "support": {
+      "title": "Support Information",
+      "hours": "24/7 Customer Support",
+      "response": "Fast Response Time",
+      "languages": "English & Arabic Support"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  },
+  "footer": {
+    "brand": {
+      "title": "Doom VIP & DH PLUS VIP",
+      "description": "Premium IPTV streaming service with over 15,000 channels and 75,000+ movies. Experience the best in entertainment with our reliable, high-quality streaming platform."
+    },
+    "links": {
+      "services": "Services",
+      "support": "Support",
+      "legal": "Legal"
+    },
+    "contact": {
+      "title": "Contact",
+      "whatsapp": "WhatsApp: +1 (332) 266-2387"
+    },
+    "copyright": "© 2025 Doom VIP & DH PLUS VIP. All rights reserved.",
+    "disclaimer": "IPTV service for entertainment purposes. Ensure compliance with local laws and regulations."
+  },
+  "seo": {
+    "home": {
+      "title": "DOOM VIP IPTV | DH PLUS VIP | 15000+ Channels | Best IPTV 2025",
+      "description": "Premium IPTV streaming with Doom VIP and DH PLUS VIP. Watch 15,000+ live channels and 75,000+ movies in 4K quality. Anti-freeze technology, 99.9% uptime, no refunds policy."
+    },
+    "pricing": {
+      "title": "IPTV Pricing Plans - Doom VIP & DH PLUS VIP Subscriptions",
+      "description": "Choose from flexible IPTV pricing plans. 6, 12, or 24-month subscriptions with up to 6 months free. 15,000+ channels, 70,000+ VOD, anti-freeze technology."
+    },
+    "faq": {
+      "title": "IPTV FAQ - Doom VIP & DH PLUS VIP Support",
+      "description": "Get answers to common IPTV questions. Learn about device compatibility, buffering solutions, payment methods, and our no-refund policy."
+    },
+    "contact": {
+      "title": "Contact Doom VIP & DH PLUS VIP IPTV Support",
+      "description": "Contact our IPTV support team via WhatsApp at +1 (332) 266-2387. Get instant help with orders, technical support, and account management."
+    }
+  },
+  "policies": {
+    "refund": {
+      "title": "Refund Policy",
+      "lastUpdated": "Last updated: January 2025",
+      "sections": {
+        "guarantee": {
+          "title": "No Refund Policy",
+          "content": "All sales are final. Once payment is completed, no refunds or exchanges will be provided under any circumstances. Please ensure you understand our service before making a purchase."
+        },
+        "eligibility": {
+          "title": "No Exceptions Policy",
+          "intro": "This no-refund policy applies to all circumstances including:",
+          "conditions": [
+            "Technical issues or service interruptions",
+            "Dissatisfaction with content or channel availability",
+            "Changes in personal circumstances or needs",
+            "Inability to use the service on your devices"
+          ]
+        },
+        "process": {
+          "title": "Before You Purchase",
+          "intro": "To ensure you're satisfied with your purchase, please:",
+          "steps": [
+            "Contact our support team via WhatsApp at +1 (332) 266-2387 for any questions",
+            "Verify that our service is compatible with your devices",
+            "Understand that all sales are final once payment is processed",
+            "Ensure you have a stable internet connection for optimal streaming"
+          ]
+        },
+        "timeline": {
+          "title": "Payment Processing",
+          "content": "All payments are processed immediately upon completion. Once your payment is confirmed, your IPTV service will be activated within 5-7 minutes. This policy ensures quick service activation and maintains our competitive pricing."
+        },
+        "exclusions": {
+          "title": "Why This Policy",
+          "intro": "This no-refund policy allows us to:",
+          "items": [
+            "Maintain competitive pricing for our premium IPTV services",
+            "Provide instant service activation within minutes",
+            "Invest in high-quality servers and content delivery",
+            "Offer 24/7 customer support for technical assistance"
+          ]
+        },
+        "contact": {
+          "title": "Need Help?",
+          "content": "If you have any questions about our no-refund policy or need technical assistance with your service, please contact our support team before making a purchase.",
+          "cta": "Contact Support"
+        }
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: January 2025",
+      "content": "We are committed to protecting your privacy. This policy outlines how we collect, use, and protect your personal information when you use our IPTV services."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: January 2025",
+      "content": "By using our IPTV service, you agree to these terms and conditions. Please read carefully before subscribing to our services."
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Streaming?",
+    "subtitle": "Join thousands of satisfied customers enjoying premium IPTV with anti-freeze technology and 24/7 support.",
+    "viewPlans": "View Pricing Plans",
+    "orderNow": "Order Now on WhatsApp",
+    "features": {
+      "noRefunds": {
+        "title": "No",
+        "subtitle": "Refunds After Payment"
+      },
+      "setupTime": {
+        "title": "5-7 Min",
+        "subtitle": "Setup Time"
+      },
+      "support": {
+        "title": "24/7",
+        "subtitle": "Customer Support"
+      }
+    }
+  },
+  "floatingButtons": {
+    "whatsapp": {
+      "dhPlus": {
+        "tooltip": "Chat about DH PLUS VIP",
+        "label": "Contact DH PLUS VIP support",
+        "text": "DH PLUS VIP?"
+      },
+      "doom": {
+        "tooltip": "Chat about DOOM VIP",
+        "label": "Contact DOOM VIP support",
+        "text": "DOOM VIP?"
+      }
+    },
+    "scrollToTop": {
+      "tooltip": "Back to top",
+      "label": "Scroll to top"
+    }
+  },
+  "downloads": {
+    "title": "Download Apps & Setup Guide",
+    "subtitle": "Get our official apps and follow the setup instructions for your device",
+    "dhPlusVip": {
+      "title": "DH PLUS VIP",
+      "description": "Premium IPTV app with 15,000+ channels and 70,000+ movies",
+      "android": {
+        "title": "Android Devices",
+        "subtitle": "Smartphones, Tablets, Fire Stick",
+        "downloadUrl": "https://download2390.mediafire.com/ja3kwlef7sdgf9w0KnT6bIySwYkBm__Ezb9DZgFhfSGH2ii81nXerdptPR9NHvvgzYvN8mLdogpBamjuTqXUZ5H5yFtf1voKbs3GIA32yonEMsHskJWc0bT7m-ngq5McFfdCIn1j9JWT3WXLXlA7-11ZCfAs9TIVVHlirxupkNIxtYA/sb1u5qnqmuxhlby/appdhnew.apk"
+      },
+      "ios": {
+        "title": "iOS & Apple TV",
+        "subtitle": "iPhone, iPad, Apple TV",
+        "apps": [
+          {
+            "name": "000 Player",
+            "url": "https://apps.apple.com/us/app/000-player/id1665441224",
+            "serverNumber": "3337"
+          },
+          {
+            "name": "Smarters Pro",
+            "url": "https://apps.apple.com/us/app/smarters-pro/id6450746159"
+          }
+        ]
+      }
+    },
+    "doomVip": {
+      "title": "DOOM VIP 2025",
+      "description": "Advanced IPTV solution with anti-freeze technology",
+      "android": {
+        "title": "Android Devices",
+        "subtitle": "Smartphones, Tablets, Fire Stick",
+        "downloadUrl": "https://bit.ly/doomv4",
+        "downloaderCode": "598695"
+      },
+      "ios": {
+        "title": "iOS & Apple TV",
+        "subtitle": "iPhone, iPad, Apple TV",
+        "apps": [
+          {
+            "name": "000 Player",
+            "url": "https://apps.apple.com/us/app/000-player/id1665441224",
+            "serverNumber": "3337"
+          },
+          {
+            "name": "Smarters Pro",
+            "url": "https://apps.apple.com/us/app/smarters-pro/id6450746159"
+          }
+        ]
+      }
+    }
+  },
+  "pwa": {
+    "installTitle": "Install DOOM VIP IPTV",
+    "installDescription": "Get faster access and work offline. Install our app on your device!",
+    "install": "Install",
+    "dismiss": "Not now",
+    "offline": "You are offline. Some features may be limited.",
+    "updateTitle": "Update Available",
+    "updateDescription": "A new version is available. Update now for the latest features.",
+    "update": "Update Now"
+  },
+  "reviews": {
+    "title": "Customer Reviews",
+    "subtitle": "See what our customers say about our IPTV services",
+    "basedOn": "Based on {count} reviews",
+    "allReviews": "All Reviews",
+    "showMore": "Show More Reviews",
+    "showLess": "Show Less",
+    "ctaTitle": "Join Thousands of Satisfied Customers",
+    "ctaDescription": "Experience premium IPTV service with 99.9% uptime and 24/7 support",
+    "orderNow": "Order Now"
+  },
+  "currency": {
+    "selectCurrency": "Select Currency",
+    "exchangeRateNote": "Exchange rates are updated regularly"
+  },
+  "offline": {
+    "title": "You are offline",
+    "description": "Some features may be limited. Cached content is still available.",
+    "queueTitle": "Actions Queued",
+    "queueDescription": "{count} actions will be processed when you're back online"
+  },
+  "connection": {
+    "poor": "Poor",
+    "fair": "Fair",
+    "good": "Good",
+    "excellent": "Excellent",
+    "unknown": "Unknown"
+  },
+  "storage": {
+    "storageInfo": "Offline storage available"
+  },
+  "theme": {
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode"
+  }
+}
