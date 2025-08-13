@@ -114,12 +114,12 @@ const nextConfig = {
     return config;
   },
 
-  // Output optimization for deployment
-  output: 'export',
+  // Output optimization for deployment (disabled for development)
+  // output: 'export',
   trailingSlash: true,
-  images: {
-    unoptimized: true
-  },
+  // images: {
+  //   unoptimized: true
+  // },
 
   // Performance optimizations
   onDemandEntries: {
